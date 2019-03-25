@@ -7,23 +7,23 @@ logHack = ''
 --ESPERS:
 -- -----------------------------------------------
 table.insert(characters, 'Ifrit 3🌟 lvl60')
-table.insert(stats, '7000;4500;7480;5060;3880;3880')
+table.insert(stats, 7000;4500;7480;5060;3880;3880')
 -- --------------------------------------------
 -- --------------------------------------------
 table.insert(characters, 'Siren 3🌟 lvl60')
-table.insert(stats, '5400;6240;4200;4680;6120;6120')
+table.insert(stats, '5850;6285;4235;4815;6175;6175')
 -- --------------------------------------------
 -- --------------------------------------------
-table.insert(characters, 'Golem 3🌟 lvl51')
-table.insert(stats, '7530;5775;4828;6938;2822;2822')
+table.insert(characters, 'Golem 3🌟 lvl47')
+table.insert(stats, '8310;5705;4816;7436;2749;2764')
 -- -----------------------------------------------
 -- -----------------------------------------------
-table.insert(characters, 'Shiva 3🌟 lvl55')
-table.insert(stats, '5625;7400;3830;4305;6910;6910')
+table.insert(characters, 'Shiva 3🌟 lvl48')
+table.insert(stats, '5905;7440;3758;4198;6826;6876')
 -- -----------------------------------------------
 -- -----------------------------------------------
-table.insert(characters, 'Ramuh(Lamú) 3🌟 lvl53')
-table.insert(stats, '4354;7825;3390;2731;7472;6272')
+table.insert(characters, 'Ramuh(Lamú) 3🌟 lvl50')
+table.insert(stats, '4670;7830;3435;2745;7535;6285')
 -- -----------------------------------------------
 -- -----------------------------------------------
 table.insert(characters, 'Diabolos(Diablo) 3🌟 lvl47')
